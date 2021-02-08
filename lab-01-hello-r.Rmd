@@ -1,11 +1,11 @@
 ---
 title: "Lab 01 - Hello R"
-author: "Musab Isah"
+author: "Anfal Nawaf Alanzey"
 date: "1/26/2021"
 output: html_document
 ---
 
-University ID: 
+University ID: 2201002453
 
 ### Load packages
 
@@ -17,4 +17,4 @@ library(datasauRus)
 
 ### Lab Exercise
 
-(Type your answer to the Exercise here. Remember to include the code, you need to put the code between three backticks followed by the following line on top of the code {r load-packages, message=FALSE}. See 'Load Packages' above as an example. Delete everything in these brackets after typing your answer.)
+( Data science is a distinct mixture that combines a group of disciplines that are closely related with data, technology, and algorithm development to solve complex problems in an analytical way.) 
